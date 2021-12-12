@@ -1,4 +1,4 @@
-import Galery from 'components/Galery/Galery';
+import Galery from 'components/Gallery/Gallery';
 import * as React from 'react';
 
 const Root = () => (
